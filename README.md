@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://i.ibb.co/n0TNyWj/wallhaven-8ogod1.jpg)
+![]()
 
 - 🔭 Studying at WSU for Master degree
 - 🌱 Currently learning IOS Developement and ML
